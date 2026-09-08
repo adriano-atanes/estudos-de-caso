@@ -131,6 +131,6 @@ Wong, O. (2025, 5 de junho). *Measuring Agent Effectiveness.* Fuzzy Labs. Dispon
 
 O diagrama apresenta a arquitetura desenvolvida pela Fuzzy Labs para o SRE Agent, demonstrando a integração entre o Large Language Model (LLM), o cliente Model Context Protocol (MCP), os servidores MCP e as ferramentas utilizadas durante o processo de investigação de incidentes.
 
-> > `![Arquitetura do SRE Agent da Fuzzy Labs](assets/arquitetura-sre-agent.jpg)`
+![Arquitetura do SRE Agent da Fuzzy Labs](../assets/arquitetura-sre-agent.jpg)`
 
 **Fonte:** Clare, S. (2025). *How We Built Our SRE Agent Using FastMCP.* Fuzzy Labs. Disponível em: https://www.fuzzylabs.ai/blog-post/how-we-built-our-sre-agent-using-fastmcp (Acesso em: 1 de setembro de 2026).
